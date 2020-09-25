@@ -62,7 +62,8 @@
     "redux-thunk": "^2.3.0",
     "stripe": "^7.14.0",
     "svg-sprite-loader": "^4.1.6",
-    "webp-loader": "^0.6.0"
+    "webp-loader": "^0.6.0",
+    "webpack": "^4.41.2"
   },
   "devDependencies": {
     "webpack": "^4.41.2"
