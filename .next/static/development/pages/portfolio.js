@@ -213,7 +213,7 @@ function (_React$Component) {
           return window.location.refresh();
         }
       }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("img", {
-        src: __webpack_require__(/*! ../../static/images/logop.png */ "./static/images/logop.png"),
+        src: __webpack_require__(/*! ../../static/images/logop1.png */ "./static/images/logop1.png"),
         alt: "logo"
       }))), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
         onClick: this.toggleNavbar,
@@ -410,7 +410,7 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         src: __webpack_require__(/*! ../../static/images/logo.png */ "./static/images/logo.png"),
         alt: "logo"
-      })))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      })))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Hashcrafts is a premium IT company that focuses on quality, innovation, & speed. We utilize technology to bring results to grow our clients businesses. We pride ourselves in great work ethic, integrity, and end-results."))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "col-lg-3 col-md-6"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "single-footer-widget pl-5"
@@ -30362,14 +30362,14 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAeCAYAAACl
 
 /***/ }),
 
-/***/ "./static/images/logop.png":
-/*!*********************************!*\
-  !*** ./static/images/logop.png ***!
-  \*********************************/
+/***/ "./static/images/logop1.png":
+/*!**********************************!*\
+  !*** ./static/images/logop1.png ***!
+  \**********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/logop-67e556581fe5928d377b2d6c5f9a552e.png";
+module.exports = "/_next/static/images/logop1-2be2cac18092583f1feaf08626e5d1cc.png";
 
 /***/ }),
 
@@ -30402,7 +30402,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAADKCAMAAADT
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDIyIDIyIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmb250LXNpemU6IDI1cHg7CiAgICAgICAgZmlsbDogIzI3ZWFjODsKICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICAgIGZvbnQtZmFtaWx5OiBSb2JvdG87CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDx0ZXh0IGlkPSJfIiBkYXRhLW5hbWU9IisiIGNsYXNzPSJjbHMtMSIgdHJhbnNmb3JtPSJtYXRyaXgoMS40MzcsIDEuNDM0LCAtMS40MzcsIDEuNDM0LCAtMC44MzIsIDIzLjA2NikiPjx0c3BhbiB4PSIwIj4rPC90c3Bhbj48L3RleHQ+Cjwvc3ZnPgo="
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDIyIDIyIj4NCiAgPGRlZnM+DQogICAgPHN0eWxlPg0KICAgICAgLmNscy0xIHsNCiAgICAgICAgZm9udC1zaXplOiAyNXB4Ow0KICAgICAgICBmaWxsOiAjMjdlYWM4Ow0KICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOw0KICAgICAgICBmb250LWZhbWlseTogUm9ib3RvOw0KICAgICAgfQ0KICAgIDwvc3R5bGU+DQogIDwvZGVmcz4NCiAgPHRleHQgaWQ9Il8iIGRhdGEtbmFtZT0iKyIgY2xhc3M9ImNscy0xIiB0cmFuc2Zvcm09Im1hdHJpeCgxLjQzNywgMS40MzQsIC0xLjQzNywgMS40MzQsIC0wLjgzMiwgMjMuMDY2KSI+PHRzcGFuIHg9IjAiPis8L3RzcGFuPjwvdGV4dD4NCjwvc3ZnPg0K"
 
 /***/ }),
 
@@ -30413,7 +30413,7 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOC41NjIiIGhlaWdodD0iMjguNTk0IiB2aWV3Qm94PSIwIDAgMjguNTYyIDI4LjU5NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogbm9uZTsKICAgICAgICBzdHJva2U6ICNlMWUxZTE7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAzcHg7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxjaXJjbGUgY2xhc3M9ImNscy0xIiBjeD0iMTQuMjgxIiBjeT0iMTQuMjk3IiByPSIxMi43ODEiLz4KPC9zdmc+Cg=="
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOC41NjIiIGhlaWdodD0iMjguNTk0IiB2aWV3Qm94PSIwIDAgMjguNTYyIDI4LjU5NCI+DQogIDxkZWZzPg0KICAgIDxzdHlsZT4NCiAgICAgIC5jbHMtMSB7DQogICAgICAgIGZpbGw6IG5vbmU7DQogICAgICAgIHN0cm9rZTogI2UxZTFlMTsNCiAgICAgICAgc3Ryb2tlLXdpZHRoOiAzcHg7DQogICAgICB9DQogICAgPC9zdHlsZT4NCiAgPC9kZWZzPg0KICA8Y2lyY2xlIGNsYXNzPSJjbHMtMSIgY3g9IjE0LjI4MSIgY3k9IjE0LjI5NyIgcj0iMTIuNzgxIi8+DQo8L3N2Zz4NCg=="
 
 /***/ }),
 
@@ -30424,7 +30424,7 @@ module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5v
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjFweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjEgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUzICg3MjUyMCkgLSBodHRwczovL3NrZXRjaGFwcC5jb20gLS0+CiAgICA8dGl0bGU+UGF0aCA1PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IHgxPSI1MCUiIHkxPSIxMDAlIiB4Mj0iNTAlIiB5Mj0iLTQ5Ljg5MTAwNzIlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMwMEU5MkIiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI0NDRkZBOCIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJNYWluLUZpbGVzIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBvcGFjaXR5PSIwLjY1ODU5Mzc1Ij4KICAgICAgICA8ZyBpZD0iMDFfaW5kZXgtQWdlbmN5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTMzLjAwMDAwMCwgLTU2Mi4wMDAwMDApIiBzdHJva2U9InVybCgjbGluZWFyR3JhZGllbnQtMSkiIHN0cm9rZS13aWR0aD0iMiI+CiAgICAgICAgICAgIDxnIGlkPSJCYW5uZXIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyNy4wMDAwMDAsIDM1LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IlNoYXBlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgMjAzLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgICAgIDxwb2x5Z29uIGlkPSJQYXRoLTUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLjUwMDAwMCwgMzI5LjUwMDAwMCkgcm90YXRlKC0yMjguMDAwMDAwKSB0cmFuc2xhdGUoLTEyLjUwMDAwMCwgLTMyOS41MDAwMDApICIgcG9pbnRzPSIyIDMyMyAxMi41OTgzNjA3IDMzNiAyMyAzMjMiPjwvcG9seWdvbj4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+"
+module.exports = "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgd2lkdGg9IjIxcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIxIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPg0KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNTMgKDcyNTIwKSAtIGh0dHBzOi8vc2tldGNoYXBwLmNvbSAtLT4NCiAgICA8dGl0bGU+UGF0aCA1PC90aXRsZT4NCiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4NCiAgICA8ZGVmcz4NCiAgICAgICAgPGxpbmVhckdyYWRpZW50IHgxPSI1MCUiIHkxPSIxMDAlIiB4Mj0iNTAlIiB5Mj0iLTQ5Ljg5MTAwNzIlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+DQogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMDBFOTJCIiBvZmZzZXQ9IjAlIj48L3N0b3A+DQogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjQ0NGRkE4IiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD4NCiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4NCiAgICA8L2RlZnM+DQogICAgPGcgaWQ9Ik1haW4tRmlsZXMiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIG9wYWNpdHk9IjAuNjU4NTkzNzUiPg0KICAgICAgICA8ZyBpZD0iMDFfaW5kZXgtQWdlbmN5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTMzLjAwMDAwMCwgLTU2Mi4wMDAwMDApIiBzdHJva2U9InVybCgjbGluZWFyR3JhZGllbnQtMSkiIHN0cm9rZS13aWR0aD0iMiI+DQogICAgICAgICAgICA8ZyBpZD0iQmFubmVyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMjcuMDAwMDAwLCAzNS4wMDAwMDApIj4NCiAgICAgICAgICAgICAgICA8ZyBpZD0iU2hhcGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAyMDMuMDAwMDAwKSI+DQogICAgICAgICAgICAgICAgICAgIDxwb2x5Z29uIGlkPSJQYXRoLTUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLjUwMDAwMCwgMzI5LjUwMDAwMCkgcm90YXRlKC0yMjguMDAwMDAwKSB0cmFuc2xhdGUoLTEyLjUwMDAwMCwgLTMyOS41MDAwMDApICIgcG9pbnRzPSIyIDMyMyAxMi41OTgzNjA3IDMzNiAyMyAzMjMiPjwvcG9seWdvbj4NCiAgICAgICAgICAgICAgICA8L2c+DQogICAgICAgICAgICA8L2c+DQogICAgICAgIDwvZz4NCiAgICA8L2c+DQo8L3N2Zz4="
 
 /***/ }),
 
@@ -30439,7 +30439,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALYAAACSCAYAAADo
 
 /***/ }),
 
-/***/ 12:
+/***/ 4:
 /*!**********************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fportfolio&absolutePagePath=C%3A%5CUsers%5CWALEED%5CDesktop%5CHashcrafts%5CHashcrafts%5Cpages%5Cportfolio.js ***!
   \**********************************************************************************************************************************************************/
@@ -30462,5 +30462,5 @@ module.exports = dll_f63c51d7c013ef4fdbda;
 
 /***/ })
 
-},[[12,"static/runtime/webpack.js"]]]);
+},[[4,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=portfolio.js.map

@@ -21,10 +21,10 @@ export default class Footer extends React.Component {
                   </Link>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi.
+                  Hashcrafts is a premium IT company that focuses on quality,
+                  innovation, & speed. We utilize technology to bring results to
+                  grow our clients businesses. We pride ourselves in great work
+                  ethic, integrity, and end-results.
                 </p>
               </div>
             </div>
@@ -102,7 +102,6 @@ export default class Footer extends React.Component {
                       <a>Dedicated Team</a>
                     </Link>
                   </li>
-                  
                 </ul>
               </div>
             </div>
@@ -119,15 +118,15 @@ export default class Footer extends React.Component {
                   <li>
                     <Icon.Mail />
                     {/* <Link href="#"> */}
-                      <a>info@hashcrafts.com</a>
+                    <a>info@hashcrafts.com</a>
                     {/* </Link> */}
                   </li>
                   <li>
                     <Icon.PhoneCall />
                     {/* <Link href="#"> */}
-                      <a>+923248402906</a>
-                      <br/>
-                      <a>+923224991944</a>
+                    <a>+923248402906</a>
+                    <br />
+                    <a>+923224991944</a>
                     {/* </Link> */}
                   </li>
                 </ul>

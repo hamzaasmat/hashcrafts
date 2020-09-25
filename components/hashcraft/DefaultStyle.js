@@ -51,7 +51,7 @@ class DefaultStyle extends React.Component {
                   onClick={() => window.location.refresh()}
                 >
                   <img
-                    src={require("../../static/images/logop.png")}
+                    src={require("../../static/images/logop1.png")}
                     alt="logo"
                   />
                 </a>
