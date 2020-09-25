@@ -9,7 +9,7 @@
     "start": "node server.js -p $PORT"
   },
   "engines": {
-    "node": "12.18.3",
+    "node": "8.11.4",
     "npm": "5.6.0"
   },
   "keywords": [],
@@ -62,8 +62,7 @@
     "redux-thunk": "^2.3.0",
     "stripe": "^7.14.0",
     "svg-sprite-loader": "^4.1.6",
-    "webp-loader": "^0.6.0",
-    "webpack": "^4.41.2"
+    "webp-loader": "^0.6.0"
   },
   "devDependencies": {
     "webpack": "^4.41.2"
