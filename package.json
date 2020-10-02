@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon server.js -p $PORT",
     "build": "next build",
-    "start": "node server.js -p $PORT"
+    "start": "next start node server.js -p $PORT",
+    "heroku-postbuild": "npm run build"
   },
   "engines": {
     "node": "8.11.4",
