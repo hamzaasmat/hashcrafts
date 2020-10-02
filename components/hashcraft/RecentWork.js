@@ -57,8 +57,10 @@ class RecentWork extends React.Component {
                     <div className="works-content">
                       <h3>Vonza</h3>
                       <p>
-                        Lorem ipsum dolor amet, adipiscing, sed do eiusmod
-                        tempor incididunt ut labore dolore magna aliqua.
+                        Vonza is the ultimate platform to build online courses,
+                        sell products, offer services, construct sales funnels,
+                        schedule appointments, launch email marketing campaigns
+                        and develop amazing websites.
                       </p>
                     </div>
                   </div>
@@ -78,8 +80,9 @@ class RecentWork extends React.Component {
                     <div className="works-content">
                       <h3>Fotisto</h3>
                       <p>
-                        Lorem ipsum dolor amet, adipiscing, sed do eiusmod
-                        tempor incididunt ut labore dolore magna aliqua.
+                        Fotisto is a marketplace that uses AI and Cloud-based
+                        tools to bridge clients with
+                        photographers/videographers.
                       </p>
                     </div>
                   </div>
@@ -99,8 +102,9 @@ class RecentWork extends React.Component {
                     <div className="works-content">
                       <h3>SWA Trader</h3>
                       <p>
-                        Lorem ipsum dolor amet, adipiscing, sed do eiusmod
-                        tempor incididunt ut labore dolore magna aliqua.
+                        SWA Trader is one stop online shopping store. Having all
+                        kinds of products from clothing and apparel to
+                        electronics and mobile phones.
                       </p>
                     </div>
                   </div>
@@ -120,8 +124,9 @@ class RecentWork extends React.Component {
                     <div className="works-content">
                       <h3>Rapid Solution</h3>
                       <p>
-                        Lorem ipsum dolor amet, adipiscing, sed do eiusmod
-                        tempor incididunt ut labore dolore magna aliqua.
+                        Rapid Solution is the first laptop repair service in
+                        Lahore to provide all sort of laptop repair solutions at
+                        your doorstep.
                       </p>
                     </div>
                   </div>

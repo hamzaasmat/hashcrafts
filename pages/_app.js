@@ -34,14 +34,13 @@ export default withRedux(initStore)(
             return (
               <Container>
                 <DefaultSeo
-                  title="Leading Digital Services Company in Pakistan | Hash Crafts "
-                  description="StartP is a React and Bootstrap 4 based Professional website template. This has been built with React, ES6+ and as framework Next.js and Express.js."
+                  title="Hashcrafts | Leading IT Services Company in Pakistan  "
                   openGraph={{
                     type: "website",
                     locale: "en_IE",
                     url: "https://hashcrafts.com/",
                     site_name:
-                      "Pakistan's Leading Digital Services Company  | Hash Crafts"
+                      "Hashcrafts | Leading IT Services Company in Pakistan"
                   }}
                 />
                 <Head>

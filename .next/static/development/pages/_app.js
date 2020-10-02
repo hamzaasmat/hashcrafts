@@ -14047,13 +14047,12 @@ function (_App) {
       }
 
       return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(next_app__WEBPACK_IMPORTED_MODULE_8__["Container"], null, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(next_seo__WEBPACK_IMPORTED_MODULE_9__["DefaultSeo"], {
-        title: "Leading Digital Services Company in Pakistan | Hash Crafts ",
-        description: "StartP is a React and Bootstrap 4 based Professional website template. This has been built with React, ES6+ and as framework Next.js and Express.js.",
+        title: "Hashcrafts | Leading IT Services Company in Pakistan  ",
         openGraph: {
           type: "website",
           locale: "en_IE",
           url: "https://hashcrafts.com/",
-          site_name: "Pakistan's Leading Digital Services Company  | Hash Crafts"
+          site_name: "Hashcrafts | Leading IT Services Company in Pakistan"
         }
       }), react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_12___default.a, null, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("link", {
         rel: "stylesheet",
