@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const dbUrl = "mongodb://localhost:27017/hash";
+const dbUrl = "mongodb+srv://Waleed:1458@cluster0.h9e71.mongodb.net/<dbname>?retryWrites=true&w=majority";
 mongoose
   .connect(dbUrl, {
     useNewUrlParser: true,
