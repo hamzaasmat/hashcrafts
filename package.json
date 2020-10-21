@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js -p 3000",
+    "dev": "nodemon server.js -p $PORT",
     "build": "next build",
-    "start": "node server.js -p 3000",
-    "heroku-postbuild": "npm run-script build"
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build"
   },
   "engines": {
     "node": "8.11.4",
